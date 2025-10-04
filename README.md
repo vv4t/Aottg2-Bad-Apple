@@ -15,8 +15,10 @@ without downloading Custom Assets or prior setup.
 
 This script requires `pillow`. You can install it with the following command:
 > pip install pillow
+
 You can then run
 > python convert.py
+
 and it will read `bad_apple.gif` and convert output into `VIDEO.txt`.
 
 ## How it works.
