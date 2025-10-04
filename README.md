@@ -1,5 +1,7 @@
 # Aottg2 Bad Apple
 
+[YOUTUBE LINK](https://www.youtube.com/watch?v=W_pkhx25Un8)
+
 ## Goal
 
 I wanted to be able to be able to stream the video to players in the room
